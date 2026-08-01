@@ -5,9 +5,8 @@ My name is Malek Baba, a Full-Stack AI Engineer based in Germany. I help compani
 ### Skills
 
 - **Languages & Frameworks:** Python (FastAPI, Django), TypeScript, JavaScript, React, SQL
-- **AI / ML:** LLMs (OpenAI), RAG, embeddings, agentic & tool-calling workflows, LangChain, vector search, evaluation & guardrails, RabbitMQ
-- **Cloud & DevOps:** Azure, Docker, Git, Azure SQL, Azure Databricks, MQTT, CI/CD, Linux
-- **Tools & Integrations:** Microsoft Teams AI Library, Microsoft Power Automate, AI Search (vector DB)
+- **AI / ML:** LLMs, RAG, embeddings, agentic & tool-calling workflows, LangChain, vector search, evaluation & guardrails
+- **Cloud & DevOps:** Azure Cloud, Docker, Git, MQTT, CI/CD, Linux, RabbitMQ
 - **AI Dev Tools:** GitHub Copilot, Claude Code
 
 ### Links
