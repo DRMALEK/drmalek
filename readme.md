@@ -12,6 +12,5 @@ My name is Malek Baba, a Full-Stack AI Engineer based in Germany. I help compani
 ### Links
 
 - 📝 Blog: [malekba7.medium.com](https://malekba7.medium.com/)
-- 💼 LinkedIn: [linkedin.com/in/malek97](https://www.linkedin.com/in/malek97/)
 
 Feel free to reach out if you have an idea, a request, or anything you want to build — happy to connect!
