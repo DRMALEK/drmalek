@@ -9,8 +9,4 @@ My name is Malek Baba, a Full-Stack AI Engineer based in Germany. I help compani
 - **Cloud & DevOps:** Azure Cloud, Docker, Git, MQTT, CI/CD, Linux, RabbitMQ
 - **AI Dev Tools:** GitHub Copilot, Claude Code
 
-### Links
-
-- 📝 Blog: [malekba7.medium.com](https://malekba7.medium.com/)
-
 Feel free to reach out if you have an idea, a request, or anything you want to build — happy to connect!
