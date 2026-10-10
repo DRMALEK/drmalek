@@ -1,9 +1,5 @@
 # Hi there, I'm Malek Baba 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full-Stack+AI+Engineer;LLM+Applications+Builder;AI+Product+Developer;AI+Systems+Architect;ML+Product+Builder" />
-</p>
-
 I’m a Software Engineer based in Germany,
 
 I’m especially interested in building end-to-end AI-powered products and optimizing inference and training workflows for production-ready ML systems.
