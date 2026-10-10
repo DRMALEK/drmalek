@@ -4,7 +4,7 @@ My name is Malek Baba, a Full-Stack AI Engineer based in Germany. I help compani
 
 ### Skills
 
-- **Languages & Frameworks:** Python (FastAPI, Django), TypeScript, JavaScript, React, SQL
+- **Languages & Frameworks:** Python (FastAPI, Django), PyTorch, TypeScript, JavaScript, React, SQL
 - **AI / ML:** LLMs, RAG, embeddings, agentic & tool-calling workflows, LangChain, vector search, evaluation & guardrails
 - **Cloud & DevOps:** Azure Cloud, Docker, Git, MQTT, CI/CD, Linux, RabbitMQ
 - **AI Dev Tools:** GitHub Copilot, Claude Code
