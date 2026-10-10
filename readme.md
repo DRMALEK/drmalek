@@ -18,7 +18,7 @@ I’m especially interested in building end-to-end AI-powered products and optim
 If you have an idea, a request, or a product you want to build, feel free to reach out — I’d love to connect.
 
 <p align="left">
-  <a href="mailto:malek97ai@gmail.com">
+  <a href="mailto:malek.baba.jobs@outlook.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-malek97ai%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/malek97/">
