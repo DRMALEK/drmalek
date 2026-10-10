@@ -8,13 +8,6 @@ I’m a Full-Stack AI Engineer based in Germany, helping companies turn AI ideas
 
 I’m especially interested in building end-to-end AI-powered products and optimizing inference and training workflows for production-ready ML systems.
 
-## About Me
-
-- Building AI products from concept to deployment
-- Designing agentic workflows and LLM-powered experiences
-- Optimizing AI inference, evaluation, and production pipelines
-- Creating practical, business-focused solutions with measurable impact
-
 ## Skills
 
 ### Languages & Frameworks
