@@ -1,7 +1,7 @@
 # Hi there, I'm Malek Baba 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full-Stack+AI+Engineer;LLM+Applications+Builder;AI+Product+Developer;MLOps+%26+Inference+Optimization" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full-Stack+AI+Engineer;LLM+Applications+Builder;AI+Product+Developer;AI+Systems+Architect;ML+Product+Builder" />
 </p>
 
 I’m a Full-Stack AI Engineer based in Germany, helping companies turn AI ideas into real business value and then building the systems that deliver it.
@@ -10,36 +10,12 @@ I’m especially interested in building end-to-end AI-powered products and optim
 
 ## Skills
 
-### Languages & Frameworks
-- Python (FastAPI, Django)
-- PyTorch
-- TypeScript
-- JavaScript
-- React
-- SQL
-
-### AI / ML
-- LLMs
-- RAG
-- Embeddings
-- Agentic workflows
-- Tool-calling systems
-- LangChain
-- Vector search
-- Evaluation and guardrails
-
-### Cloud & DevOps
-- Azure
-- Docker
-- Git
-- MQTT
-- CI/CD
-- Linux
-- RabbitMQ
-
-### AI Dev Tools
-- GitHub Copilot
-- Claude Code
+| Category | Skills |
+| --- | --- |
+| Languages & Frameworks | Python (FastAPI, Django), TypeScript, JavaScript, React, SQL, PyTorch |
+| AI / ML | LLMs, RAG, Embeddings, Agentic workflows, Tool-calling systems, LangChain, Vector search, Evaluation and guardrails |
+| Cloud & DevOps | Azure, Docker, Git, MQTT, CI/CD, Linux, RabbitMQ |
+| AI Dev Tools | GitHub Copilot, Claude Code |
 
 ## What I Do
 
