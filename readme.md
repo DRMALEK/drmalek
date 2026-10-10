@@ -17,10 +17,6 @@ I’m especially interested in building end-to-end AI-powered products and optim
 | Cloud & DevOps | Azure, Docker, Git, MQTT, CI/CD, Linux, RabbitMQ |
 | AI Dev Tools | GitHub Copilot, Claude Code |
 
-## What I Do
-
-I help teams move from experimentation to production by combining product thinking, engineering discipline, and modern AI tooling.
-
 ## Let’s Connect
 
 If you have an idea, a request, or a product you want to build, feel free to reach out — I’d love to connect.
