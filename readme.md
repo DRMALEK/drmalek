@@ -25,7 +25,7 @@ If you have an idea, a request, or a product you want to build, feel free to rea
   <a href="mailto:malek97ai@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-malek97ai%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/malek-baba/">
+  <a href="https://www.linkedin.com/in/malek97/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Malek%20Baba-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/DRMALEK">
