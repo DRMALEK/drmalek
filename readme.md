@@ -2,6 +2,8 @@
 
 My name is Malek Baba, a Full-Stack AI Engineer based in Germany. I help companies realize the tangible value of AI — and then I build it.
 
+I'm interested in building end-to-end ai powered products + Optimizing inference \ training of ai models.
+
 ### Skills
 
 - **Languages & Frameworks:** Python (FastAPI, Django), PyTorch, TypeScript, JavaScript, React, SQL
