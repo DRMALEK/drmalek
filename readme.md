@@ -2,7 +2,7 @@
 
 I’m a Software Engineer based in Germany,
 
-I’m especially interested in building end-to-end AI-powered products and optimizing inference and training workflows for production-ready ML systems.
+I’m especially interested in building and architecting full-stack web applications, Retrieval-Augmented Generation (RAG) systems, and agentic applications.
 
 ## Skills
 
